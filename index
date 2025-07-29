@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Política de Privacidad</title>
+</head>
+<body>
+  <h1>Política de Privacidad</h1>
+  <p>Fecha de entrada en vigor: [fecha]</p>
+  <p>Esta aplicación recopila y gestiona información personal de los usuarios para proporcionar sus servicios. Al utilizar esta app, aceptas esta política de privacidad.</p>
+
+  <h2>1. Datos que recopilamos</h2>
+  <ul>
+    <li>Nombre y correo electrónico (durante el registro)</li>
+    <li>Citas o eventos creados por el usuario</li>
+  </ul>
+
+  <h2>2. Cómo se recopilan</h2>
+  <p>Los datos se recopilan mediante formularios en la app, a través de Firebase Authentication y Firestore.</p>
+
+  <h2>3. Uso de la información</h2>
+  <ul>
+    <li>Gestionar el acceso del usuario</li>
+    <li>Mostrar citas o eventos personales</li>
+    <li>Mejorar la experiencia en la app</li>
+  </ul>
+
+  <h2>4. Compartición con terceros</h2>
+  <p>No compartimos tus datos con terceros. Solo se utilizan dentro de los servicios de Firebase proporcionados por Google.</p>
+
+  <h2>5. Almacenamiento y seguridad</h2>
+  <ul>
+    <li>Los datos se almacenan en Firebase Firestore (servidores seguros de Google).</li>
+    <li>Usamos autenticación segura y acceso restringido a los datos.</li>
+  </ul>
+
+  <h2>6. Eliminación de cuenta</h2>
+  <p>Los usuarios pueden eliminar su cuenta y todos sus datos desde la app. Esto elimina su perfil, citas asociadas y credenciales de autenticación.</p>
+
+  <h2>7. Cambios a esta política</h2>
+  <p>Podremos actualizar esta política en el futuro. Cualquier cambio se mostrará en esta sección.</p>
+
+  <h2>8. Contacto</h2>
+  <p>Si tienes preguntas sobre esta política, puedes contactarnos a: <a href="mailto:tu-email@email.com">tu-email@email.com</a></p>
+</body>
+</html>
